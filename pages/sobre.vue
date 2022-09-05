@@ -1,11 +1,11 @@
 <template>
-  <section class="section">
-    <h1 class="title">Sobre</h1>
-  </section>
+  <div>
+
+
+
+
+
+    
+  </div>
 </template>
 
-<script>
-export default {
-  name: 'InspirePage'
-}
-</script>
